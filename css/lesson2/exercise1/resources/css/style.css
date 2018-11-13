@@ -1,0 +1,31 @@
+/*pose d'un fond vert*/
+ul > li {
+    background-color: #00FF00;
+}
+/* retrait de mon sous lignement de tout mes li*/
+header > li {
+    text-decoration:none 
+}
+/* changement de mon titre en plus petit et moins gras*/
+aside > h1 { 
+    font-family: Verdana, sans-serif;
+    font-size: smaller;
+}
+/* changement de tout mes span incluant "lorem" valeur numérique en gras*/
+span { font-size-adjust: 700;
+}
+/* changement de tout mes lorem en italique*/
+span { font-style:"_lorem upsum_" italic
+}
+/*justification de tout mes paragraphe*/
+p {text-align: justify
+}
+/*décoration de mes en majuscule la 1ère lettre d'un mot en majuscule*/
+p{ text-decoration: capitalize
+}
+/*Centrer mon logo*/
+.title {text-align: center;
+}
+/*Mettre mon logo en rouge*/
+.title { color: red
+}
