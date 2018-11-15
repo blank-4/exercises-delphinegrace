@@ -1,0 +1,48 @@
+/* création sur ma liste*/
+/*
+nav.horizontale {
+    color: white;
+    background-color: #000080;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    border: 2px outset #c0c0c0;
+    display: block;
+    width: 100px;
+  }
+  a.horizontale:hover {
+    background-color: #6495ED;
+    background-image: url(aqua.jpg);
+    border: 2px inset #c0c0c0;
+  } */
+h1{
+    font-family: "Trebuchet MS", Verdana, Geneva, Arial;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding:  20px;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    padding-inline-start: 0px;
+}
+
+li {
+     display:inline-block;
+}
+
+a {
+    text-decoration:none; 
+    color: yellow;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding:  20px;
+    text-align: center;
+    
+}
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+
