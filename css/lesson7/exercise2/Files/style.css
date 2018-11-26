@@ -1,3 +1,16 @@
+body{
+  height:100vh;
+}
+body div{
+  height:100vh;
+}
+.container-fluid .row:nth-child(1), .container-fluid .row:nth-child(3) {
+ height:25%;
+}
+ .container-fluid .row:nth-child(2) {
+   height:50%;
+ }
+
 aside {
   background-color: yellow;
 }
