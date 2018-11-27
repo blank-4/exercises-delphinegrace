@@ -1,0 +1,40 @@
+#LeHipPop {
+	width: 250px;
+	padding: 10px;
+	background: #6B9A49; color: #fff;	
+}
+#LeHipPop a.ouvrir {
+	padding: 10px 25px;
+	background: #555;
+	color: #fff;
+	text-decoration: none;
+}
+#LeHipPOP {
+	position: relative;
+	left: -270px; top: 55px;
+}
+#LeHipPop a.ouvrir {
+	position: absolute;
+	right: -88px;
+	top: 150px;
+    border-radius: 0 0 8px 8px;
+}
+#LeHipPop {
+	-webkit-transition: all .5s ease-in;
+    transition: all .5s ease-in;
+}
+#LeHipPop a.ouvrir
+#LeHipPop a.fermer
+
+#LeHipPop a.fermer {
+	display: none;
+}
+#LeHipPop_clos:target #LehipPop {
+	left: -270px;
+}
+#LeHipPop:target a.ouvrir {
+	display: none;
+}
+#LeHipPop:target a.fermer {
+	display: block;
+}

@@ -1,0 +1,25 @@
+header{
+  display: inline-block;
+  justify-content: center;
+  color: black;
+
+}
+
+}
+li {
+  display: inline;
+  margin-right: 1px ;
+  color: black;
+  background:transparent ;
+}
+.love {
+  display: flex;
+  justify-content: center;
+}
+.jumbotron {
+ margin-bottom: 0px;
+ height: 100px;
+ color: yellow; /* Le texte sera affiché en jaune */
+ text-shadow: black 0.3em 0.3em 0.3em;
+ background:transparent;
+}
