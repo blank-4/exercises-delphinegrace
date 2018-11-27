@@ -4,7 +4,7 @@ var position = "père-Lachaise";
  
 /* On va maintenant créer notre structure de contrôle "switch". on va lui donner en expression ( entre les parenthèses ) notre variable "position".*/
 switch (position) {
-    case "Belleville" :
+    case "Belleville" :// la string donc chaine de caractère défini.
         console.log("tu est sur la ligne 11 ou la ligne 2");   break;
 
     case "Mairie-des-lilas" :
