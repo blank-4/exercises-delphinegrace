@@ -1,7 +1,7 @@
 /* On va déclarer une une variable "position"
 et lui donner comme valeur "Belleville".*/
 var position = "père-Lachaise";
-
+ 
 /* On va maintenant créer notre structure de contrôle "switch". on va lui donner en expression ( entre les parenthèses ) notre variable "position".*/
 switch (position) {
     case "Belleville" :
