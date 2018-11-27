@@ -9,5 +9,5 @@ for ( var i = 0 ; i <= 20 ; i++ ) {
         console.log("fizz");
     }
     else if( i% 5 == 0)
-        console.log("buzz");
+        console.log("buzz"); 
 }
